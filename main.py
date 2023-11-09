@@ -41,3 +41,4 @@ text_area.grid(sticky= N + E + S + W)
 
 window.config(menu=menu)
 window.mainloop()
+# test
